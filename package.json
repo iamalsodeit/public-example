@@ -1,0 +1,11 @@
+{
+  "name": "sbom-test-public",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Throwaway repo for SG-13187 QA validation",
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.20",
+    "axios": "0.21.1"
+  }
+}
